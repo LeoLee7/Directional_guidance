@@ -1,0 +1,11 @@
+torch
+--upgrade torch
+transformers
+opencv-python
+numpy
+pandas
+tqdm
+Pillow
+accelerate
+openai
+bitsandbytes
