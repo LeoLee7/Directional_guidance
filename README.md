@@ -1,7 +1,7 @@
 # Directional Guidance
 
 This repository supports the experiments described in our NeurIPS 2024 paper: [Right this way: Can VLMs Guide Us to See More to
-Answer Questions?](https://proceedings.neurips.cc/paper_files/paper/2024/file/efe4e50d492fedc0dfd2959f3320a974-Paper-Conference.pdf). It contains code for generating synthetic training datasets for vision-language models (VLMs) through a combination of perturbation-based data augmentation and model inference. It 
+Answer Questions?](https://proceedings.neurips.cc/paper_files/paper/2024/file/efe4e50d492fedc0dfd2959f3320a974-Paper-Conference.pdf). It contains code for generating synthetic training datasets for vision-language models (VLMs) through a combination of perturbation-based data augmentation and model inference.
 
 
 The Directional Guidance benchmark dataset is available at 🤗 [Huggingface datacard](https://huggingface.co/datasets/LeoLee7/Directional_Guidance).
